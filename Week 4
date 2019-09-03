@@ -1,0 +1,11 @@
+Problem
+We all know that there are many Indians in California, but there are very few Indian restaurants. So decided to open an Indian restaurant & Bar in California.
+
+Description of Data 
+I have used data from Kaggle to find the most suitable place to open up an Indian restaurant and Bar in California. 
+Data for longitude and latitude values of California:
+https://www.kaggle.com/camnugent/california-housing-feature-engineering
+
+By exploring California I found that, Los Angeles has mostly Non-Indian restaurants and less Bars. So I decided to explore Los Angeles in order to know where a Non-Indian restaurant & Bar should be open. I again used Kaggle to get the longitude and Latitude values of various places in Los Angeles.
+Data for longitude and latitude values of Los Angeles:
+https://www.kaggle.com/kingburrito666/los-angeles-crime
